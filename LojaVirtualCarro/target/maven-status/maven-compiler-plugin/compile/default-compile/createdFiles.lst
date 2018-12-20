@@ -1,0 +1,5 @@
+br\unifacs\festa\GestaoCarroApplication.class
+br\unifacs\festa\model\CarroRepository.class
+br\unifacs\festa\model\CarroService.class
+br\unifacs\festa\controller\CarroController.class
+br\unifacs\festa\model\Carro.class
